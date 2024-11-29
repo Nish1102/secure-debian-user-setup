@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # Secure Debian User Setup with SSH Key Authentication
 
 This repository contains detailed steps to create a new user on a Debian server, enable secure SSH key-based login, and disable root login for enhanced security. It also includes steps to copy `/root` files to the new user.
